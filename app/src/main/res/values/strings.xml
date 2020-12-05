@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Elektrorechner</string>
+
+    <string name="onefieldshouldbeempty">Ein Feld muss leer sein, dieses wird dann berechnet</string>
+    <string name="noideawhattocalculate">Sry, aber ich weiß nicht was du berechnen möchtest</string>
+    <string name="invalidvaluestrom">Ungültiger Wert für das Feld Strom</string>
+    <string name="invalidvaluespannung">Ungültiger Wert für das Feld Spannung</string>
+    <string name="invalidvaluewiderstand">Ungültiger Wert für das Feld Widerstand</string>
 </resources>
